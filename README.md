@@ -52,3 +52,4 @@ Objective:
 3. To find the best airline of travel with less delay.
 4. To build an interactive dashboard with the above objectives.
 
+Interactive dashboard https://public.tableau.com/app/profile/jasper.jayaraj/viz/MidbootcampProject/DailyDelays
