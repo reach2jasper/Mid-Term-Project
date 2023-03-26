@@ -12,11 +12,11 @@ Used:
 * Tableau
 * Machine Learning (Logistic Regression)
 
-#Variable descriptions:
+Variable descriptions:
 
-#1 Year 1987-2008 
-#2 Month 1-12
-#3 DayofMonth 1-31
+1. Year 2007
+2. Month 1-12
+3. DayofMonth 1-31
 #4 DayOfWeek 1 (Monday) - 7 (Sunday) 
 #5 DepTime actual departure time (local, hhm m)
 #6 CRSDepTime scheduled departure time (local, hhmm)
